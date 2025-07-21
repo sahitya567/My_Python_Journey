@@ -1,0 +1,5 @@
+a=(1,1,1,2,5,6)
+b=a.count(1)
+print(b)
+c=a.index(5)
+print(c)

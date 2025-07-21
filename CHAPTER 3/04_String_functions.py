@@ -1,0 +1,13 @@
+a="sahitya"
+print(len(a))
+print(a.endswith("tya"))
+print(a.startswith("sahi"))
+print(a.capitalize())
+print(a.upper())
+print(a.title())
+print(a.strip())
+print(a.lstrip())
+print(a.zfill(9))
+print(a.count("a"))
+print(a.find("t"))
+print(a.replace("sahi","ni"))
